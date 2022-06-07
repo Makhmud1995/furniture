@@ -8,7 +8,7 @@ const Content2 = () => {
         <div>
           <img className="mr-4" src={Delevery}></img>
         </div>
-        <div className="flex flex-col">
+        <div className="flex flex-col ">
           <div>
             <h2>Free Delivery</h2>
           </div>

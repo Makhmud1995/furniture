@@ -24,11 +24,11 @@ const Content1 = () => {
             <br />
             New Collection
           </div>
-          <div className="not-italic font-medium text-lg text-[#333333] ml-8">
+          <div className="not-italic font-light text-lg text-[#333333] ml-8">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
             <br /> elit tellus, luctus nec ullamcorper mattis.
           </div>
-          <div className="ml-8">
+          <div className="ml-8 ">
             <button className="rounded-full bg-[#364d79] w-[229px] h-[70px] text-[#fff]">
               Buy Now
             </button>
